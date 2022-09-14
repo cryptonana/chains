@@ -1,0 +1,23 @@
+{
+  "name": "Xsirox Chain",
+  "chain": "SIO",
+  "rpc": ["https://sio-dataseed.xsirox.com/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Xsirox",
+    "symbol": "SIO",
+    "decimals": 18
+  },
+  "infoURL": "https://xsiroxscan.com",
+  "shortName": "SIO",
+  "chainId": 5552,
+  "networkId": 5552,
+  "icon": "xsiroxchain",
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://xsiroxscan.com",
+      "standard": "EIP3091"
+    }
+  ]
+}
